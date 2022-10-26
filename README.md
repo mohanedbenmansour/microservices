@@ -9,7 +9,7 @@ C'est un exemple d'application Java / Maven / Spring Boot (version 27.5) qui peu
 * [micro-trottinette-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, MySQL à utiliser comme un service de ressources
 * [micro-balade-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, Postgresql à utiliser comme un service de ressources
 * [micro-location-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, H2 à utiliser comme un service de ressources
-* [micro-association-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, MySQL à utiliser comme un service de ressources
+* [micro-advertisement-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, MySQL à utiliser comme un service de ressources
 * [micro-evenement-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, MySQL à utiliser comme un service de ressources 
 * [micro-poste-server]: Service REST simple créé avec Spring Boot, Spring Data JPA, MySQL à utiliser comme un service de ressources
 ### Outils dont vous aurez besoin
